@@ -35,6 +35,7 @@ Copy code
    GET /api/v1/url/redirect/{shortenedUrl}
 
 Description: Redirects to the original URL.
+
 3. Get Top 3 Shortened Domains
    GET /api/v1/url/top-domains
 
