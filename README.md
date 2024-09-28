@@ -30,6 +30,7 @@ Copy code
 {
 "shortenedUrl": "http://localhost:8080/{shortenedUrl}"
 }
+
 2. Redirect to Original URL
    GET /api/v1/url/redirect/{shortenedUrl}
 
